@@ -1,0 +1,22 @@
+Node.js / Angular
+
+node_modules/
+client/node_modules/
+client/dist/
+client/.angular/
+
+.NET
+
+**/bin/
+**/obj/
+
+IDE
+
+.idea/
+.vscode/
+
+Environment and local configuration
+
+.env
+.env.*
+!.env.example
